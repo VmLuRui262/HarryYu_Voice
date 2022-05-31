@@ -1,4 +1,4 @@
 # HarryYu_Voice 2022-05-31
 本文件夹包含以下曲目:
-- [HarryYu_01](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/slk/HarryYu01) - [热爱105°C的你](https://music.163.com/song?id=1840459406) [wav](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/wav/HarryYu01.wav) [mp3](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/mp3/HarryYu01.mp3)
-- [HarryYu_02](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/slk/HarryYu02) - [光辉岁月](https://music.163.com/song?id=346576) [wav](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/wav/HarryYu02.wav) [mp3](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/mp3/HarryYu02.mp3)
+- [HarryYu_01](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/slk/HarryYu01) - [热爱105°C的你](https://music.163.com/song?id=1840459406) - [wav](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/wav/HarryYu01.wav) [mp3](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/mp3/HarryYu01.mp3)
+- [HarryYu_02](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/slk/HarryYu02) - [光辉岁月](https://music.163.com/song?id=346576) - [wav](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/wav/HarryYu02.wav) [mp3](https://github.com/VmLuRui262/HarryYu_Voice/blob/master/2022-05-31/mp3/HarryYu02.mp3)
