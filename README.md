@@ -1,6 +1,6 @@
 # HarryYu的语音
 
- - Last update : `2022-07-05_01:24:48` 
+ - Last update : `2022-07-05_01:25:08` 
   
 需要其他格式请自行使用[silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)转换成你需要的格式 
   
